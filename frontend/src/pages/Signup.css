@@ -31,6 +31,10 @@ body {
   .signup-lang {
     margin-right: 10px;
     color: #8c8c8c;
+    background: none;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
   }
   
   .signup-profile i {
@@ -145,3 +149,4 @@ body {
   .signup-login-link span:hover {
     text-decoration: underline;
   }
+  
