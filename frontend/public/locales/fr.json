@@ -1,19 +1,48 @@
 {
-    "noItem": "Article non trouvé...",
+  "home": "Accueil",
+  "about": "À propos",
+  "testLogin": "Page de connexion test",
+  "signup": "S'inscrire",
+  "login": "Connexion",
 
-    "home": "Accueil",
-    "about": "À propos",
+  "filter": "Filtrer par",
+  "dietary": "Préférences alimentaires",
+  "cultural": "Préférences culturelles",
+  "foodtype": "Type de nourriture",
 
-    "filter": "Filtrer par",
-    "dietary": "Préférences Alimentaires",
-    "cultural": "Préférences Culturelles",
-    "foodtype": "Type d'Aliment",
-    "details": "Détails",
-    "search": "Recherche",
-    "searchBar": "Rechercher un Produit",
-    "backBtn": "Précédent",
+  "searchBar": "Rechercher un produit",
+  "search": "Recherche",
+  "details": "Détails",
+  "addToCart": "Ajouter au panier",
+  "noItemsFound": "Aucun élément trouvé.",
+  "noItem": "Article introuvable...",
+  "backBtn": "Retour",
+  "inStock": "En stock",
+  "outofStock": "est en rupture de stock",
 
-    "addToCart": "Ajouter au Panier",
-    "inStock": "En Stock",
-    "outofStock": "est en rupture de stock"
-  }
+  "loginTitle": "Bon retour",
+  "loginSubtitle": "Entrez vos identifiants pour vous connecter",
+  "email": "Email",
+  "password": "Mot de passe",
+  "loginError": "Email ou mot de passe invalide",
+  "or": "OU",
+  "loginWithGoogle": "Se connecter avec Google",
+  "forgotPassword": "Mot de passe oublié?",
+  "noAccount": "Vous n'avez pas de compte?",
+
+  "signupSubtitle": "Créer un compte",
+  "username": "Nom d'utilisateur",
+  "confirmPassword": "Confirmer le mot de passe",
+  "signupWithGoogle": "S'inscrire avec Google",
+  "alreadyHaveAccount": "Vous avez déjà un compte?",
+
+  "aboutTitle": "À propos de notre site",
+  "aboutContent": "Cette plateforme vous aide à trouver et filtrer des produits alimentaires facilement avec un support multilingue.",
+
+  "basket": {
+    "title": "Panier",
+    "empty": "Votre panier est vide.",
+    "checkout": "Passer à la caisse"
+  },
+  "orderConfirmation": "Confirmation de commande"
+}

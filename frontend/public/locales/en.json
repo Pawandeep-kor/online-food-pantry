@@ -1,19 +1,48 @@
 {
-    "noItem": "Item not found...",
+  "home": "Home",
+  "about": "About",
+  "testLogin": "Test Login Page",
+  "signup": "Sign Up",
+  "login": "Login",
 
-    "home": "Home",
-    "about": "About",
+  "filter": "Filter by",
+  "dietary": "Dietary Preferences",
+  "cultural": "Cultural Preferences",
+  "foodtype": "Food Type",
 
-    "filter": "Filter by",
-    "dietary": "Dietary Preferences",
-    "cultural": "Cultural Preferences",
-    "foodtype": "Food Type",
-    "details": "Details",
-    "search": "Search",
-    "searchBar": "Search for a Product",
-    "backBtn": "Back",
+  "searchBar": "Search for a Product",
+  "search": "Search",
+  "details": "Details",
+  "addToCart": "Add To Cart",
+  "noItemsFound": "No items found.",
+  "noItem": "Item not found...",
+  "backBtn": "Back",
+  "inStock": "In stock",
+  "outofStock": "is out of stock",
 
-    "addToCart": "Add To Cart",
-    "inStock": "In stock",
-    "outofStock": "is out of stock"
-  }
+  "loginTitle": "Welcome Back",
+  "loginSubtitle": "Enter your credentials to login",
+  "email": "Email",
+  "password": "Password",
+  "loginError": "Invalid email or password",
+  "or": "OR",
+  "loginWithGoogle": "Sign in with Google",
+  "forgotPassword": "Forgot password?",
+  "noAccount": "Don't have an account?",
+
+  "signupSubtitle": "Create an account",
+  "username": "Username",
+  "confirmPassword": "Confirm Password",
+  "signupWithGoogle": "Sign up with Google",
+  "alreadyHaveAccount": "Already have an account?",
+
+  "aboutTitle": "About Our Site",
+  "aboutContent": "This platform helps you find and filter food products easily with multilingual support.",
+
+  "basket": {
+    "title": "Basket",
+    "empty": "Your basket is empty.",
+    "checkout": "Proceed to Checkout"
+  },
+  "orderConfirmation": "Order Confirmation"
+}

@@ -1,0 +1,48 @@
+.basket-container {
+    padding: 20px;
+    background-color: #f2ecef;
+    text-align: center;
+    border-radius: 8px;
+  }
+  
+  .basket-items {
+    margin-bottom: 20px;
+  }
+  
+  .basket-item {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: white;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .remove-btn {
+    background-color: #6d1e43;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .remove-btn:hover {
+    background-color: #e49439;
+  }
+  
+  .checkout-btn {
+    background-color: #e49439;
+    color: white;
+    padding: 12px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    width: 100%;
+  }
+  
+  .checkout-btn:hover {
+    background-color: #722549;
+  }
